@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# env & misc
+.env*
+.DS_Store
+*.log
+
+# raw source assets (optimised copies live in public/media)
+/_photo-activite_visit*/
+/kwa.jpeg
+/kwajwa.jpeg
+/WhatsApp Image *.jpeg
+/statut GMRA.pdf
